@@ -1,0 +1,13 @@
+# 음원 데이터 (MP3 590개 / 약 1.2GB)
+# GitHub 용량 제한을 넘고, 앱은 이 경로가 아니라 IndexedDB에서 음원을 읽으므로 제외한다.
+app/data/
+
+# Windows / OneDrive
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
+
+# 편집기
+.vscode/
+.idea/
